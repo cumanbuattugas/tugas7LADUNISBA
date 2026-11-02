@@ -1,0 +1,243 @@
+{
+  "prof": {
+    "name": "Fauzan Kamil",
+    "uni": "Universitas Islam Bandung (UNISBA)",
+    "major": "Ekonomi Pembangunan — FEB, 2025–2029",
+    "course": "Lab Analitik Data Ekonomi",
+    "motto": "Building Businesses. Understanding Economies. Connecting the World.",
+    "goals": "1) Membangun perusahaan agribisnis/agritech/investasi agri. 2) Menjadi diplomat Indonesia.",
+    "photo": "assets/profile.jpg",
+    "accent": "#d4af37",
+    "theme": "dark"
+  },
+  "exp": [
+    {
+      "name": "Chief Investment Officer",
+      "org": "PT Agrinova Global Nusantara",
+      "period": "Maret 2026 – Sekarang",
+      "date": "2026-03-01",
+      "desc": "Membangun hubungan dengan calon investor; pendekatan dan presentasi investasi; strategi fundraising; koordinasi proposal investasi; komunikasi dan negosiasi dengan investor.",
+      "demo": 0
+    },
+    {
+      "name": "Website Simulasi Trading Saham",
+      "org": "UNISBAVM",
+      "period": "Mei 2026 – Sekarang",
+      "date": "2026-05-01",
+      "desc": "Menginisiasi platform simulasi trading saham berbasis web; mengembangkan fitur simulasi transaksi (HTML, CSS, JavaScript); media edukasi pasar modal Indonesia.",
+      "demo": 0
+    },
+    {
+      "name": "Liaison Officer",
+      "org": "UNISBA Global Inspired Society (U-GIS)",
+      "period": "Oktober 2026",
+      "date": "2026-10-01",
+      "desc": "Mendampingi mahasiswa internasional (Kazakhstan, Nigeria, Jerman, Myanmar); komunikasi lintas budaya; membangun relasi internasional.",
+      "demo": 0
+    },
+    {
+      "name": "Volunteer Berkah Rasa",
+      "org": "Hareudang Bandung",
+      "period": "Maret 2025",
+      "date": "2025-03-09",
+      "desc": "Koordinator kegiatan volunteer; memimpin tim dan mengorganisir kegiatan sosial.",
+      "demo": 0
+    }
+  ],
+  "achievements": [
+    {
+      "name": "The Most Collaborative Team",
+      "cat": "Leadership",
+      "rar": "Rare",
+      "status": "Achieved",
+      "date": "2024-08-01",
+      "xp": 100,
+      "level": 1,
+      "progress": 100,
+      "desc": "Iampreneur.idn — Global Preneur Summit.",
+      "proof": "CV"
+    },
+    {
+      "name": "Tata Kelola Organisasi Kepemudaan",
+      "cat": "Leadership",
+      "rar": "Common",
+      "status": "Achieved",
+      "date": "2024-08-01",
+      "xp": 50,
+      "level": 1,
+      "progress": 100,
+      "desc": "Pepelingasih Jabar — Duta Daerah Kota Bandung.",
+      "proof": "CV"
+    },
+    {
+      "name": "Festival Pelajar Unggulan Tingkat Nasional",
+      "cat": "Academic Excellence",
+      "rar": "Epic",
+      "status": "Achieved",
+      "date": "2024-10-01",
+      "xp": 150,
+      "level": 1,
+      "progress": 100,
+      "desc": "Peserta tingkat nasional.",
+      "proof": "CV"
+    },
+    {
+      "name": "Latihan Kepemimpinan Pemuda",
+      "cat": "Leadership",
+      "rar": "Rare",
+      "status": "Achieved",
+      "date": "2025-07-01",
+      "xp": 100,
+      "level": 1,
+      "progress": 100,
+      "desc": "Dispora Kota Bandung.",
+      "proof": "CV"
+    }
+  ],
+  "roadmap": [
+    {
+      "name": "Fase 2025–2029: pendidikan, kompetensi, networking, organisasi, fondasi bisnis agribisnis",
+      "period": "2025–2029",
+      "status": "In Progress",
+      "prio": "High",
+      "date": "2029-12-31",
+      "progress": 0,
+      "notes": "Atur progress sesuai realisasi."
+    },
+    {
+      "name": "Fase 2029–2035: perusahaan agribisnis, jaringan investasi, pengalaman internasional, jalur diplomasi",
+      "period": "2029–2035",
+      "status": "Planned",
+      "prio": "High",
+      "date": "2035-12-31",
+      "progress": 0,
+      "notes": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Economic analysis",
+      "cat": "Business & Economics",
+      "cur": 0,
+      "target": 8,
+      "progress": 0,
+      "res": "",
+      "notes": "Belum dinilai — isi level awal.",
+      "upd": ""
+    },
+    {
+      "name": "Financial literacy",
+      "cat": "Business & Economics",
+      "cur": 0,
+      "target": 8,
+      "progress": 0,
+      "res": "",
+      "notes": "Belum dinilai — isi level awal.",
+      "upd": ""
+    },
+    {
+      "name": "Investment analysis",
+      "cat": "Business & Economics",
+      "cur": 0,
+      "target": 8,
+      "progress": 0,
+      "res": "",
+      "notes": "Belum dinilai — isi level awal.",
+      "upd": ""
+    },
+    {
+      "name": "Data analytics",
+      "cat": "Business & Economics",
+      "cur": 0,
+      "target": 8,
+      "progress": 0,
+      "res": "",
+      "notes": "Belum dinilai — isi level awal.",
+      "upd": ""
+    },
+    {
+      "name": "Entrepreneurship",
+      "cat": "Business & Economics",
+      "cur": 0,
+      "target": 8,
+      "progress": 0,
+      "res": "",
+      "notes": "Belum dinilai — isi level awal.",
+      "upd": ""
+    },
+    {
+      "name": "International relations",
+      "cat": "Diplomacy & International",
+      "cur": 0,
+      "target": 8,
+      "progress": 0,
+      "res": "",
+      "notes": "Belum dinilai — isi level awal.",
+      "upd": ""
+    },
+    {
+      "name": "Cross-cultural communication",
+      "cat": "Diplomacy & International",
+      "cur": 0,
+      "target": 8,
+      "progress": 0,
+      "res": "",
+      "notes": "Belum dinilai — isi level awal.",
+      "upd": ""
+    },
+    {
+      "name": "Negotiation",
+      "cat": "Diplomacy & International",
+      "cur": 0,
+      "target": 8,
+      "progress": 0,
+      "res": "",
+      "notes": "Belum dinilai — isi level awal.",
+      "upd": ""
+    },
+    {
+      "name": "Public speaking",
+      "cat": "Diplomacy & International",
+      "cur": 0,
+      "target": 8,
+      "progress": 0,
+      "res": "",
+      "notes": "Belum dinilai — isi level awal.",
+      "upd": ""
+    },
+    {
+      "name": "Leadership",
+      "cat": "Leadership & Networking",
+      "cur": 0,
+      "target": 8,
+      "progress": 0,
+      "res": "",
+      "notes": "Belum dinilai — isi level awal.",
+      "upd": ""
+    },
+    {
+      "name": "Strategic networking",
+      "cat": "Leadership & Networking",
+      "cur": 0,
+      "target": 8,
+      "progress": 0,
+      "res": "",
+      "notes": "Belum dinilai — isi level awal.",
+      "upd": ""
+    },
+    {
+      "name": "Project management",
+      "cat": "Leadership & Networking",
+      "cur": 0,
+      "target": 8,
+      "progress": 0,
+      "res": "",
+      "notes": "Belum dinilai — isi level awal.",
+      "upd": ""
+    }
+  ],
+  "agri": [],
+  "diplo": [],
+  "network": [],
+  "goals": []
+}
