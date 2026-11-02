@@ -6,7 +6,7 @@
     "course": "Lab Analitik Data Ekonomi",
     "motto": "Building Businesses. Understanding Economies. Connecting the World.",
     "goals": "1) Membangun perusahaan agribisnis/agritech/investasi agri. 2) Menjadi diplomat Indonesia.",
-    "photo": "assets/profile.jpg",
+    "photo": "profile.jpg",
     "accent": "#d4af37",
     "theme": "dark"
   },
@@ -48,7 +48,7 @@
     {
       "name": "The Most Collaborative Team",
       "cat": "Leadership",
-      "rar": "Rare",
+      "rar": "NASIONAL",
       "status": "Achieved",
       "date": "2024-08-01",
       "xp": 100,
@@ -60,7 +60,7 @@
     {
       "name": "Tata Kelola Organisasi Kepemudaan",
       "cat": "Leadership",
-      "rar": "Common",
+      "rar": "PROVINSI",
       "status": "Achieved",
       "date": "2024-08-01",
       "xp": 50,
@@ -72,7 +72,7 @@
     {
       "name": "Festival Pelajar Unggulan Tingkat Nasional",
       "cat": "Academic Excellence",
-      "rar": "Epic",
+      "rar": "NASIONAL",
       "status": "Achieved",
       "date": "2024-10-01",
       "xp": 150,
@@ -84,7 +84,7 @@
     {
       "name": "Latihan Kepemimpinan Pemuda",
       "cat": "Leadership",
-      "rar": "Rare",
+      "rar": "KOTA BANDUNG",
       "status": "Achieved",
       "date": "2025-07-01",
       "xp": 100,
@@ -96,20 +96,20 @@
   ],
   "roadmap": [
     {
-      "name": "Fase 2025–2029: pendidikan, kompetensi, networking, organisasi, fondasi bisnis agribisnis",
-      "period": "2025–2029",
+      "name": "Fase 2023-SEKARANG: pendidikan, kompetensi, networking, organisasi, fondasi bisnis agribisnis",
+      "period": "2023-SEKARANG",
       "status": "In Progress",
       "prio": "High",
-      "date": "2029-12-31",
+      "date": "2023-01-01",
       "progress": 0,
       "notes": "Atur progress sesuai realisasi."
     },
     {
-      "name": "Fase 2029–2035: perusahaan agribisnis, jaringan investasi, pengalaman internasional, jalur diplomasi",
-      "period": "2029–2035",
+      "name": "Fase 2035–2055: perusahaan agribisnis, jaringan investasi, pengalaman internasional, jalur diplomasi",
+      "period": "2035–2055",
       "status": "Planned",
       "prio": "High",
-      "date": "2035-12-31",
+      "date": "2065-12-31",
       "progress": 0,
       "notes": ""
     }
